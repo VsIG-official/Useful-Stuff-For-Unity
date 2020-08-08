@@ -6,3 +6,5 @@
 
 You can use this script for detecting click on object and, if user has moved mouse or finger, click won't count.
 It changes bool, which You can use in other scripts (for example I use it in OnMouseUp and click doesn't count)
+
+Also You can zoom in and out with fingers and change it's value
