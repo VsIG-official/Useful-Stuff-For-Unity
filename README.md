@@ -18,7 +18,7 @@ This is a repo with useful stuff for unity. The projects or assets may not be Mi
 
 ## Badges
 
-[Theme](https://img.shields.io/badge/Theme-Unity-black?style=flat-square)
+![Theme](https://img.shields.io/badge/Theme-Unity-black?style=flat-square)
 
 ---
 
