@@ -8,7 +8,7 @@
 
 - [Description](#description)
 - [Badges](#badges)
-- [Useful Stuff](#useful stuff)
+- [Useful-Stuff](#useful-stuff)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -22,7 +22,7 @@ This is a repo with useful stuff for unity. The projects or assets may not be Mi
 
 ---
 
-## Useful Stuff
+## Useful-Stuff
 
 - [Script's for better panning and zooming on mobile (can detect double clicks and if player moved mouse\finger) ](https://youtu.be/zdHvM6XU4rY)
 
