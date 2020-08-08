@@ -33,9 +33,6 @@ public class PanZoom : MonoBehaviour
 	void Start()
 	{
 		mainCamera = Camera.main.GetComponent<Camera>();
-		Vector3 stageDimensions = mainCamera.ScreenToWorldPoint
-			(new Vector3(Screen.width, Screen.height, 0));
-		Debug.Log(stageDimensions);
 	}
 
 	/// <summary>
