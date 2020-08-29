@@ -27,6 +27,8 @@ This is a repo with useful stuff for unity. The projects or assets may not be Mi
 - Scripts for better panning and zooming on mobile
     - <a href="https://github.com/VsIG-official/Useful-Stuff-For-Unity/tree/master/Scripts%20and%20.md%20files/Better%20panning%20and%20zooming/DoubleClick" target="_blank">Detect double click</a>.
     - <a href="https://github.com/VsIG-official/Useful-Stuff-For-Unity/tree/master/Scripts%20and%20.md%20files/Better%20panning%20and%20zooming/Click%2Bdrag" target="_blank">Detect click and click + drag</a>.
+- Graphs
+    - <a href="https://github.com/VsIG-official/Useful-Stuff-For-Unity/tree/master/Scripts%20and%20.md%20files/Graphs" target="_blank">Graphs</a>.
 
 ---
 
