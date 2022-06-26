@@ -15,7 +15,6 @@ namespace PMEGame.Scenes
         private static bool s_isSwitching;
 
         private static bool s_shouldPlayOpeningAnimation;
-        private static AdInitializator s_adInitializator;
 
         private const string SceneClosingTrigger = "SceneClosing";
         private const string SceneOpeningTrigger = "SceneOpening";
@@ -27,8 +26,6 @@ namespace PMEGame.Scenes
         private void Start()
         {
             s_instance = this;
-
-            s_adInitializator = GetComponent<AdInitializator>();
 
             _animator = GetComponent<Animator>();
 
@@ -69,7 +66,6 @@ namespace PMEGame.Scenes
         public void OnAnimationOver()
         {
             s_shouldPlayOpeningAnimation = true;
-            s_adInitializator.ShowInterstitial();
         }
 
         public void AllowSceneActivation()

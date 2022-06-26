@@ -25,19 +25,21 @@ This is a repo with useful stuff for unity. The projects or assets may not be Mi
 ## Useful-Stuff
 
 - Scripts for better panning and zooming on mobile
-    - [Detect double click](https://github.com/VsIG-official/Useful-Stuff-For-Unity/tree/master/Scripts%20and%20.md%20files/Better%20panning%20and%20zooming/DoubleClick)
-    - [Detect click and click + drag](https://github.com/VsIG-official/Useful-Stuff-For-Unity/tree/master/Scripts%20and%20.md%20files/Better%20panning%20and%20zooming/Click%2Bdrag)
+    - [Detect double click](Scripts\BetterPanningAndZooming\DoubleClick)
+    - [Detect click and click + drag](Scripts\BetterPanningAndZooming\Click+drag)
 - Graphs
-    - [Graphs](https://github.com/VsIG-official/Useful-Stuff-For-Unity/tree/master/Scripts%20and%20.md%20files/Graphs)
+    - [Graphs](Scripts\Graphs)
 - Events
-    - [Video](https://youtu.be/gx0Lt4tCDE0)
-    - Tips
-        - Make Subscriptions in **Awake** method and everything else - in **Start**. This way You can avoid problem, when event has been called, but without subscribers
-        - P.S. Yet I recommend to use *Unity Events* instead of *C# events*, 'cause You don't need to write **OnDestroy** method and there won't be any null checks
+    - [Video #1](https://youtu.be/gx0Lt4tCDE0)
+    - [Video #2 with some delegates](https://youtu.be/OuZrhykVytg)
+    - [Video #3 with difference between C# and unity events](https://youtu.be/oc3sQamIh-Q)
+    - [Video #4 with Unity Events](https://youtu.be/JupiI9jegFg?t=327)
+    - [Small Explanations](Scripts\Events\README.md)
 - Scene Managment
     - Scripts for better Scene Managment:
-        - [Main Script]()
-        - [Easy API for scene loading]()
+        - [Main Script](Scripts\SceneManagment\SceneTransition.cs)
+        - [Easy API for scene loading](Scripts\SceneManagment\SceneLoader.cs)
+        - [Events](Scripts\SceneManagment\SceneEvents.cs)
 
 ---
 
@@ -60,4 +62,4 @@ This is a repo with useful stuff for unity. The projects or assets may not be Mi
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2022 © <a href="https://github.com/VsIG-official" target="_blank">VsIG</a>.
+- Copyright 2022 © [VsIG](https://github.com/VsIG-official)
