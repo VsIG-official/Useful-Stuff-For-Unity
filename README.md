@@ -35,6 +35,9 @@ This is a repo with useful stuff for unity. The projects or assets may not be Mi
         - Make Subscriptions in **Awake** method and everything else - in **Start**. This way You can avoid problem, when event has been called, but without subscribers
         - P.S. Yet I recommend to use *Unity Events* instead of *C# events*, 'cause You don't need to write **OnDestroy** method and there won't be any null checks
 - Scene Managment
+    - Scripts for better Scene Managment:
+        - [Main Script]()
+        - [Easy API for scene loading]()
 
 ---
 
